@@ -1,14 +1,21 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/mehdi.png"
+imageAlt: "About Muhammad Mehdi"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+A technical resource with knowledge of JavaScript and Experience with
+Javascript based libraries / frameworks: 
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Angular |
+React Js |
+React Native |
+Vue Js |
+Firebase
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+In other words, I am hands-on with Mobile and Web
+Application using Javascript. 
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+It is around 4+ years plus experience
+contributing as a Front-End Engineer in the IT industry.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+<a href="https://www.linkedin.com/in/muhammad-mehdi-rajani-751252126/" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Muhammad Mehdi</u></a>
