@@ -25,7 +25,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/about-mmehdi/mehdi-resume.pdf"
+        "url": "/mehdi-resume.pdf"
       },
       "footer": [
         { "label": "", "url": "" },
